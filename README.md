@@ -26,3 +26,5 @@ The list of Geometric Transformations to be applied are as follows:
 - (C) Rotation
 - (D) Shearing in X - direction
 - (E) Shearing in Y - direction
+
+![output image](https://github.com/BhargavNaga/image_processing_assignment/blob/main/images/output.png?raw=true)
