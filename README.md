@@ -15,3 +15,14 @@ The objective of this task is to determine the quality of a degraded face image 
    - Compress the image using the JPEG 2000 standard, which is commonly used for image compression. 
    - Then decompress the compressed image to a degree of 70% - 80% to further degrade the image quality.
 
+
+## Problem Statement 2
+
+
+Download Lena image and convert into gray scale image. Implement all Geometric Transformations on the grayscale image without using inbuilt functions. 
+The list of Geometric Transformations to be applied are as follows:
+- (A) Translation
+- (B) Scaling
+- (C) Rotation
+- (D) Shearing in X - direction
+- (E) Shearing in Y - direction
